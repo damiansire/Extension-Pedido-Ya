@@ -6,7 +6,7 @@
     "content_scripts": [
         {
             "matches": [
-                "https://*/*"
+                "https://www.pedidosya.com.uy/restaurantes/*"
             ],
             "js": [
                 "content-script.js"
