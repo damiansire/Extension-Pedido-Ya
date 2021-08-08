@@ -1,8 +1,8 @@
 {
-    "name": "Nombre de la extension, es lo que se muestra al hacer click en extensiones",
+    "name": "Pedido ya extension - No oficial",
     "version": "1.0",
     "manifest_version": 2,
-    "description": "Esto aparecera como descripcion de la extension",
+    "description": "Extension para buscar cosas baratas en pedido ya",
     "content_scripts": [
         {
             "matches": [
